@@ -26,11 +26,11 @@
 
 
 <!--Intro start-->
--👋 Introduction: Hi, I'm @Vaishnavi1047.  
--👀 Interests: I have a keen interest in learning new algorithms and staying updated with emerging technologies.    
--🌱 Learning Focus: Currently, my main areas of focus are web development and data structures & algorithms (DSA).  
--💞️ Collaboration Goals: I'm enthusiastic about collaborating with others in the tech community. As I continue to enhance my skills in web development and DSA, I look forward to engaging in collaborative projects.  
--📫 Contact Information: You can reach out to me through my Gmail- vaishnavitiwari104@gmail.com  
+👋 Introduction: Hi, I'm @Vaishnavi1047.  
+👀 Interests: I have a keen interest in learning new algorithms and staying updated with emerging technologies.    
+🌱 Learning Focus: Currently, my main areas of focus are web development and data structures & algorithms (DSA).  
+💞️ Collaboration Goals: I'm enthusiastic about collaborating with others in the tech community. As I continue to enhance my skills in web development and DSA, I look forward to engaging in collaborative projects.  
+📫 Contact Information: You can reach out to me through my Gmail- vaishnavitiwari104@gmail.com  
 <!--Intro end-->
 
 <!-- Connect with me -->
