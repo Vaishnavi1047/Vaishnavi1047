@@ -34,5 +34,5 @@
 </p>
   
 ## GSSOC(24) 🪶
-![GSSoC Certificate](https://raw.githubusercontent.com/username/repository/branch/images/certificate.png)
+![GSSoC Certificate](https://github.com/Vaishnavi1047/Vaishnavi1047/blob/main/1723737950606.jpeg)
 
