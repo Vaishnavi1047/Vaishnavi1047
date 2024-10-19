@@ -20,19 +20,12 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">PROGRESS NOT PERFECTION</h2></summary>
+    <summary><h1 style="display: inline-block">LEARNER AND OPEN SOURCE ENTHUSIAST</h1></summary>
   </ul>
 </div>
 
 
-<!--Intro start-->
-👋 Introduction: Hi, I'm @Vaishnavi1047.  
-👀 Interests: I have a keen interest in learning new algorithms and staying updated with emerging technologies.    
-🌱 Learning Focus: Currently, my main areas of focus are web development and data structures & algorithms (DSA).  
-💞️ Collaboration Goals: I'm enthusiastic about collaborating with others in the tech community. As I continue to enhance my skills in web development and DSA, I look forward to engaging in collaborative projects.  
-📫 Contact Information: You can reach out to me through my Gmail- vaishnavitiwari104@gmail.com  
-<!--Intro end-->
-
+[![An image of @vaishnavi1047's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaishnavi1047)](https://holopin.io/@vaishnavi1047)
 
 
 <!-- GitHub Stats -->
