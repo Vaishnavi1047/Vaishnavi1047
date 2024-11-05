@@ -24,15 +24,15 @@
   </ul>
 </div>
 
-
-[![An image of @vaishnavi1047's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaishnavi1047)](https://holopin.io/@vaishnavi1047)
-
-
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi1047&show_icons=true&locale=en" alt="Vaishnavi1047" style="max-width: 100%; height: auto; width: 60%;" />
 </p>
   
+[![An image of @vaishnavi1047's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaishnavi1047)](https://holopin.io/@vaishnavi1047)
+
+
+
 ## GSSOC(24) 🪶
 ![GSSoC Certificate](https://github.com/Vaishnavi1047/Vaishnavi1047/blob/main/1723737950606.jpeg)
 
