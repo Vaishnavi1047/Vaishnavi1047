@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
 <!-- Profile Visits Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaishnavi1047&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
@@ -28,6 +27,7 @@
 🚀 Enthusiastic <strong>Full-Stack Web Developer</strong> with a knack for <strong>UI/UX Design</strong> and a deep interest in <strong>Machine Learning & Open Source</strong>. I enjoy creating impactful solutions that make a difference.
 </p>
 
+
 - 🔭 Currently working on **Hackalyze - Code To Give 2025**
 - 🌱 Learning **Advanced React.js & AI Integration**
 - 🎯 Passionate about **Open Source & Tech for Good**
@@ -37,13 +37,10 @@
 
 ---
 
-<!-- GitHub Trophies & Holopin Badges Side by Side -->
-<h2 align="center">🏆 Achievements & Badges</h2>
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Vaishnavi1047&theme=onestar&no-frame=true" width="48%"/>
-  <a href="https://holopin.io/@vaishnavi1047">
-    <img src="https://holopin.me/vaishnavi1047" alt="Holopin Badges" width="48%"/>
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=Vaishnavi1047&theme=onestar&no-frame=true" width="800"/>
 </p>
 
 ---
@@ -51,8 +48,16 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi1047&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.vercel.app?user=Vaishnavi1047&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi1047&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi1047&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages"/>
+</p>
+
+<!-- Holopin Badges -->
+<h2 align="center">🎖️ Holopin Badges</h2>
+<p align="center">
+  <a href="https://holopin.io/@vaishnavi1047">
+    <img src="https://holopin.me/vaishnavi1047" alt="Holopin Badges" width="600"/>
+  </a>
 </p>
 
 ---
@@ -60,7 +65,7 @@
 <!-- GSSoC Section -->
 <h2 align="center">🚀 GirlScript Summer of Code 2024</h2>
 <p align="center">
-  <img src="https://github.com/Vaishnavi1047/Vaishnavi1047/blob/main/1723737950606.jpeg" width="48%" alt="GSSoC Certificate"/>
+  <img src="https://github.com/Vaishnavi1047/Vaishnavi1047/blob/main/1723737950606.jpeg" width="600" alt="GSSoC Certificate"/>
 </p>
 
 ---
@@ -78,4 +83,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
