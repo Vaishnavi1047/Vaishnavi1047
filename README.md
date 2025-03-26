@@ -1,38 +1,81 @@
+<!-- Elegant Gradient Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Profile Visits Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi1047&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Vaishnavi Tiwari</h1></summary>
-  </ul>
-</div>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Vaishnavi Tiwari</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7D800&center=true&vCenter=true&random=false&width=700&lines=%2+Web+Developer+%7C+Open+Source+Contributor+%7C+ML+Enthusiast;Passionate+about+coding+and+designing;Bringing+ideas+to+life+with+code" alt="Typing SVG" />
+</p>
 
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/Vaishnavi1047/Vaishnavi1047/blob/main/grid-snake.svg" alt="snake animation"/>
+</p>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/Vaishnavi1047/Vaishnavi1047/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+---
 
+<!-- About Me Section -->
+<h2 align="center">🌟 About Me 🌟</h2>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">LEARNER AND OPEN SOURCE ENTHUSIAST</h1></summary>
-  </ul>
-</div>
+<p align="center">
+🚀 Enthusiastic <strong>Full-Stack Web Developer</strong> with a knack for <strong>UI/UX Design</strong> and a deep interest in <strong>Machine Learning & Open Source</strong>. I enjoy creating impactful solutions that make a difference.
+</p>
+
+- 🔭 Currently working on **Hackalyze - Code To Give 2025**
+- 🌱 Learning **Advanced React.js & AI Integration**
+- 🎯 Passionate about **Open Source & Tech for Good**
+- 🎨 Designing intuitive and modern **web experiences**
+- 💬 Ask me about **Web Dev, ML, or Open Source!**
+- 📫 Reach me at **vaishnavi1047@gmail.com**
+
+---
+
+<!-- GitHub Trophies & Holopin Badges Side by Side -->
+<h2 align="center">🏆 Achievements & Badges</h2>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Vaishnavi1047&theme=onestar&no-frame=true" width="48%"/>
+  <a href="https://holopin.io/@vaishnavi1047">
+    <img src="https://holopin.me/vaishnavi1047" alt="Holopin Badges" width="48%"/>
+  </a>
+</p>
+
+---
 
 <!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi1047&show_icons=true&locale=en" alt="Vaishnavi1047" style="max-width: 100%; height: auto; width: 60%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi1047&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.vercel.app?user=Vaishnavi1047&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
-  
-[![An image of @vaishnavi1047's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaishnavi1047)](https://holopin.io/@vaishnavi1047)
 
+---
 
+<!-- GSSoC Section -->
+<h2 align="center">🚀 GirlScript Summer of Code 2024</h2>
+<p align="center">
+  <img src="https://github.com/Vaishnavi1047/Vaishnavi1047/blob/main/1723737950606.jpeg" width="48%" alt="GSSoC Certificate"/>
+</p>
 
-## GSSOC(24) 🪶
-![GSSoC Certificate](https://github.com/Vaishnavi1047/Vaishnavi1047/blob/main/1723737950606.jpeg)
+---
+
+<!-- Connect With Me -->
+<h2 align="center">📬 Connect With Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/vaishnavi1047" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Vaishnavi1047" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:vaishnavi1047@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
