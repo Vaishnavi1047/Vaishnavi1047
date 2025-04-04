@@ -20,6 +20,14 @@
 
 ---
 
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi1047&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaishnavi1047&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 <!-- About Me Section -->
 <h2 align="center">🌟 About Me 🌟</h2>
 
@@ -45,12 +53,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi1047&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi1047&layout=compact&theme=radical&hide_border=true" width="49%" alt="Most Used Languages"/>
-</p>
 
 <!-- Holopin Badges -->
 <h2 align="center">🎖️ Holopin Badges</h2>
