@@ -9,9 +9,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Vaishnavi Tiwari</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7D800&center=true&vCenter=true&random=false&width=700&lines=%2+Web+Developer+%7C+Open+Source+Contributor+%7C+ML+Enthusiast;Passionate+about+coding+and+designing;Bringing+ideas+to+life+with+code" alt="Typing SVG" />
-</p>
+
 
 <!-- Snake Animation -->
 <p align="center">
